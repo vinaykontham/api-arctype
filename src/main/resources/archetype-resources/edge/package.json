@@ -1,0 +1,18 @@
+{
+	"name": "${ApiName}",
+	"version": "1.0.0",
+	"license": "GNU General Public License (GPL)",
+	"private": true,
+	"devDependencies": {
+		"apickli": "2.3.4",
+		"apigeelint": "2.6.0",
+		"apigeetool": "0.15.0",
+		"bluebird": "3.7.2",
+		"chai": "4.3.4",
+		"chai-fuzzy": "1.6.1",
+		"cucumber": "6.0.5",
+		"istanbul": "0.4.5",
+		"mocha": "8.4.0",
+		"sinon": "11.1.1"
+	}
+}

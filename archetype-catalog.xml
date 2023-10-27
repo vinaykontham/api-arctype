@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog>
+    <archetypes>
+        <archetype>
+            <groupId>com.hdfc.apigee.archetype.poc</groupId>
+            <artifactId>api-pass-through-poc</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+            <repository>http://43.205.228.235:8082/artifactory/snapshot</repository>
+            <description>Apigee Edge Proxy Passthrough Project</description>
+        </archetype>
+    </archetypes>
+</archetype-catalog>

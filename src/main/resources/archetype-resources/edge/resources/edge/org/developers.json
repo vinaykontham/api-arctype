@@ -1,0 +1,12 @@
+[
+    {
+        "email": "integration-tester@hdfc.com",
+        "firstName": "integration",
+        "lastName": "tester",
+        "userName": "integration-tester@hdfc.com",
+        "attributes": [{
+            "name": "EXAMPLE",
+            "value": "Value"
+        }]
+    }
+]

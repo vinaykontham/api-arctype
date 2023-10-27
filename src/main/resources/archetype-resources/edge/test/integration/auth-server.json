@@ -1,0 +1,4 @@
+{
+    "domain": "https://${org}-${env}.apigee.net",
+    "basepath": "/oauth2"
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "name": "${ApiName}Product",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "${ApiName}Product"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "${ApiName}Product",
+        "displayName": "${ApiName}Product",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "${ApiName}"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]

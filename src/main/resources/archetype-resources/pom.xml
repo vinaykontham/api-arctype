@@ -1,0 +1,22 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.hdfc.apigee</groupId>
+    <artifactId>${ApiName}-parent</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>${ApiName}-parent</name>
+
+    <parent>
+        <groupId>com.hdfc.api.commons</groupId>
+        <artifactId>hdfc-parent-pom</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <properties>
+        <artifactId>${ApiName}</artifactId>
+    </properties>
+
+	<modules>
+		<module>edge</module>
+	</modules>
+</project>
